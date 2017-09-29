@@ -1355,6 +1355,7 @@
     }
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-style-inject": "^0.1.0"
   }
 }
